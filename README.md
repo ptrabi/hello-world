@@ -1,2 +1,3 @@
-# hello-world
-asd
+# Kriptografi
+Hasil program pada matakuliah kriptografi ITERA
+
